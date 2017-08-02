@@ -8,7 +8,7 @@ File --> Settings --> Plugins --> Install JetBrains plugin --> 搜索kotlin --> 
 
 步骤2：自动为项目配置kotlin。
 
-Tools --> kotlin --> configure kotlin in project
+Tools --> kotlin --> configure kotlin in project --> Android with Gradle
 
 就这么简单的两步就可以愉快的跟kotlin玩耍了，嘎嘎。
 
